@@ -1,0 +1,16 @@
+# kicad
+fp-info-cache
+fp-lib-table
+_autosave*
+*.zip
+layout/*.pdf
+
+# cubemx ide
+Debug/
+Drivers/
+
+*sw[op]
+*-bak
+*~
+
+.DS_Store
